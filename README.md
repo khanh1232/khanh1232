@@ -5,7 +5,7 @@
 - root you phone
 - install connectbot or another app on play store to connect your terminal
 - install linux deploy and setup it
-- command list ( su && apk update && apk upgrade && apk add mtkclient )
+- requirements command list ( su && apk update && apk upgrade && apk add mtkclient )
 - you can use it to unlock bootloader,unbrick,etc
 <!---
 khanh1232/khanh1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
